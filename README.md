@@ -4,8 +4,9 @@
 
 ## Contents
 * [Libraries](#libraries)
+* [Official API](#officialapi)
+* [Official Stores](#officialstores)
 * [Resources](#resources)
-* [Stores](#stores)
 
 ## Libraries
 * [then-chrome](https://github.com/acvetkov/then-chrome) - promise-based chrome extensions api.
@@ -13,11 +14,21 @@
 * [chnl](https://github.com/vitalets/chnl) - implementation of channels (aka events, pub/sub, dispatcher) compatible with chrome extensions events API.
 * [generator-chrome-extension](https://github.com/yeoman/generator-chrome-extension) - yeoman chrome extension generator that creates everything you need to get started with extension development.
 
-## Resources
-* [Chrome Extensions API](https://developer.chrome.com/extensions/api_index) - official chrome extensions api and tutorials.
+## Official API
+* [Chrome Extensions API](https://developer.chrome.com/extensions/api_index)
+* [Opera Extensions API](https://dev.opera.com/extensions/apis/)
+* [Firefox WebExtensions API](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API)
+* [Firefox Add-ons SDK](https://developer.mozilla.org/en-US/Add-ons/SDK/High-Level_APIs)
+* [Safari extensions API](https://developer.apple.com/library/safari/documentation/UserExperience/Reference/SafariExtensionsReference/index.html)
 
-## Stores
-* [Chrome Web Store](https://chrome.google.com/webstore) - official google chrome store to discover extensions and apps.
+## Official Stores
+* [Chrome Web Store](https://chrome.google.com/webstore)
+* [Opera Web Store](https://addons.opera.com/en/extensions/)
+* [Firefox Add-ons Store](https://addons.mozilla.org)
+* [Safari Extensions Gallery](https://safari-extensions.apple.com/)
+
+## Resources
+* [The Future of Developing Firefox Add-ons](https://blog.mozilla.org/addons/2015/08/21/the-future-of-developing-firefox-add-ons/) - official blog post introducing WebExtensions in Firefox
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
