@@ -1,4 +1,4 @@
-# Awesome Browser Extensions And Apps[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](vitalets/awesome-browser-extensions-and-apps)
+# Awesome Browser Extensions And Apps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](vitalets/awesome-browser-extensions-and-apps)
 
 > A curated list of awesome resources for building browser extensions and apps
 
