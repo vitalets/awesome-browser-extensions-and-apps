@@ -9,6 +9,9 @@
 
 ## Libraries
 * [then-chrome](https://github.com/acvetkov/then-chrome) - promise-based chrome extensions api.
+* [sinon-chrome](https://github.com/acvetkov/sinon-chrome) - testing chrome extension with sinon and nodejs.
+* [chnl](https://github.com/vitalets/chnl) - implementation of channels (aka events, pub/sub, dispatcher) compatible with chrome extensions events API.
+* [generator-chrome-extension](https://github.com/yeoman/generator-chrome-extension) - yeoman chrome extension generator that creates everything you need to get started with extension development.
 
 ## Resources
 * [Chrome Extensions API](https://developer.chrome.com/extensions/api_index) - official chrome extensions api and tutorials.
