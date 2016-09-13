@@ -9,12 +9,19 @@
 * [Official API](#officialapi)
 * [Official Stores](#officialstores)
 * [Resources](#resources)
+* [Contribution](#contribution)
 
 ## Libraries
 * [then-chrome](https://github.com/acvetkov/then-chrome) - promise-based chrome extensions api.
 * [sinon-chrome](https://github.com/acvetkov/sinon-chrome) - testing chrome extension with sinon and nodejs.
+* [karma-sinon-chrome](https://github.com/9joneg/karma-sinon-chrome) - karma adapter to run extension tests with sinon-chrome.
 * [chnl](https://github.com/vitalets/chnl) - implementation of channels (aka events, pub/sub, dispatcher) compatible with chrome extensions events API.
 * [generator-chrome-extension](https://github.com/yeoman/generator-chrome-extension) - yeoman chrome extension generator that creates everything you need to get started with extension development.
+* [chrome-manifest](https://github.com/ragingwind/chrome-manifest) - manage manifest, easily include/exclude keys.
+* [crx](https://www.npmjs.com/package/crx) - packs directory into `.crx` file.
+* [chrome-extension-deploy](https://github.com/erikdesjardins/chrome-extension-deploy) - programmatic deploy extensions to chrome web store.
+* [download-crx](github.com/acvetkov/download-crx) - npm package to dowload crx from chrome web store by id.
+* [chrome-web-store-item-property](https://github.com/pandawing/node-chrome-web-store-item-property) - gather version, count of downloads and rating from chrome web store.
 
 ## Official API
 * [Chrome Extensions API](https://developer.chrome.com/extensions/api_index)
@@ -30,7 +37,11 @@
 * [Safari Extensions Gallery](https://safari-extensions.apple.com/)
 
 ## Resources
+* [chrome-extension-downloader.com](http://chrome-extension-downloader.com/) - online service to download `crx` from chrome web store.
 * [The Future of Developing Firefox Add-ons](https://blog.mozilla.org/addons/2015/08/21/the-future-of-developing-firefox-add-ons/) - official blog post introducing WebExtensions in Firefox
+
+## Contribution
+Please feel free to share your experience and contribute useful extension resources by creating [new issue](https://github.com/vitalets/awesome-browser-extensions-and-apps/issues/new) or [pull request](https://github.com/vitalets/awesome-browser-extensions-and-apps/compare). Thanks!
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
