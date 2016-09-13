@@ -22,6 +22,7 @@
 * [chrome-extension-deploy](https://github.com/erikdesjardins/chrome-extension-deploy) - programmatic deploy extensions to chrome web store.
 * [download-crx](github.com/acvetkov/download-crx) - npm package to dowload crx from chrome web store by id.
 * [chrome-web-store-item-property](https://github.com/pandawing/node-chrome-web-store-item-property) - gather version, count of downloads and rating from chrome web store.
+* [chrome-store-api](https://github.com/acvetkov/chrome-store-api) - chrome webstore [Api](https://developer.chrome.com/webstore/using_webstore_api) for Node.js
 
 ## Official API
 * [Chrome Extensions API](https://developer.chrome.com/extensions/api_index)
