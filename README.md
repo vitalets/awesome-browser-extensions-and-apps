@@ -5,24 +5,32 @@
 > A curated list of awesome resources for building browser extensions and apps
 
 ## Contents
-* [Libraries](#libraries)
+* [Development](#development)
+* [Testing](#testing)
+* [Publishing](#publishing)
 * [Official API](#officialapi)
 * [Official Stores](#officialstores)
 * [Resources](#resources)
 * [Contribution](#contribution)
 
-## Libraries
+## Development
+* [generator-chrome-extension](https://github.com/yeoman/generator-chrome-extension) - yeoman chrome extension generator that creates everything you need to get started with extension development.
 * [then-chrome](https://github.com/acvetkov/then-chrome) - promise-based chrome extensions api.
+* [chnl](https://github.com/vitalets/chnl) - implementation of events compatible with chrome extensions [events API](https://developer.chrome.com/extensions/events#type-Event).
+* [chrome-manifest](https://github.com/ragingwind/chrome-manifest) - manage manifest, easily include/exclude keys.
+
+## Testing
 * [sinon-chrome](https://github.com/acvetkov/sinon-chrome) - testing chrome extension with sinon and nodejs.
 * [karma-sinon-chrome](https://github.com/9joneg/karma-sinon-chrome) - karma adapter to run extension tests with sinon-chrome.
-* [chnl](https://github.com/vitalets/chnl) - implementation of channels (aka events, pub/sub, dispatcher) compatible with chrome extensions events API.
-* [generator-chrome-extension](https://github.com/yeoman/generator-chrome-extension) - yeoman chrome extension generator that creates everything you need to get started with extension development.
-* [chrome-manifest](https://github.com/ragingwind/chrome-manifest) - manage manifest, easily include/exclude keys.
+
+## Publishing
 * [crx](https://www.npmjs.com/package/crx) - packs directory into `.crx` file.
+* [grunt-crx](https://github.com/oncletom/grunt-crx) - grunt task used to package Chrome Extensions
 * [chrome-extension-deploy](https://github.com/erikdesjardins/chrome-extension-deploy) - programmatic deploy extensions to chrome web store.
 * [download-crx](github.com/acvetkov/download-crx) - npm package to dowload crx from chrome web store by id.
 * [chrome-web-store-item-property](https://github.com/pandawing/node-chrome-web-store-item-property) - gather version, count of downloads and rating from chrome web store.
 * [chrome-store-api](https://github.com/acvetkov/chrome-store-api) - chrome webstore [Api](https://developer.chrome.com/webstore/using_webstore_api) for Node.js
+* [chrome-webstore-manager](https://github.com/pastak/chrome-webstore-manager) - managing chrome webstore items from Node.js
 
 ## Official API
 * [Chrome Extensions API](https://developer.chrome.com/extensions/api_index)
