@@ -1,6 +1,6 @@
 <img src="https://cloud.githubusercontent.com/assets/1473072/18416597/930a794e-7821-11e6-84d0-c23c23baadcc.png" align="right" width="150">
 # Awesome Browser Extensions And Apps
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](vitalets/awesome-browser-extensions-and-apps)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome resources for building browser extensions and apps
 
@@ -16,7 +16,7 @@
 ## Development
 * [generator-chrome-extension](https://github.com/yeoman/generator-chrome-extension) - yeoman chrome extension generator that creates everything you need to get started with extension development.
 * [then-chrome](https://github.com/acvetkov/then-chrome) - promise-based chrome extensions api.
-* [chnl](https://github.com/vitalets/chnl) - implementation of events compatible with chrome extensions [events API](https://developer.chrome.com/extensions/events#type-Event).
+* [chnl](https://github.com/vitalets/chnl) - implementation of events compatible with [chrome extensions events API](https://developer.chrome.com/extensions/events#type-Event).
 * [chrome-manifest](https://github.com/ragingwind/chrome-manifest) - manage manifest, easily include/exclude keys.
 
 ## Testing
