@@ -25,12 +25,12 @@
 
 ## Publishing
 * [crx](https://www.npmjs.com/package/crx) - packs directory into `.crx` file.
-* [grunt-crx](https://github.com/oncletom/grunt-crx) - grunt task used to package Chrome Extensions
+* [grunt-crx](https://github.com/oncletom/grunt-crx) - grunt task used to package Chrome Extensions.
 * [chrome-extension-deploy](https://github.com/erikdesjardins/chrome-extension-deploy) - programmatic deploy extensions to chrome web store.
 * [download-crx](https://github.com/acvetkov/download-crx) - npm package to dowload crx from chrome web store by id.
 * [chrome-web-store-item-property](https://github.com/pandawing/node-chrome-web-store-item-property) - gather version, count of downloads and rating from chrome web store.
-* [chrome-store-api](https://github.com/acvetkov/chrome-store-api) - chrome webstore [Api](https://developer.chrome.com/webstore/using_webstore_api) for Node.js
-* [chrome-webstore-manager](https://github.com/pastak/chrome-webstore-manager) - managing chrome webstore items from Node.js
+* [chrome-store-api](https://github.com/acvetkov/chrome-store-api) - chrome webstore [Api](https://developer.chrome.com/webstore/using_webstore_api) for Node.js.
+* [chrome-webstore-manager](https://github.com/pastak/chrome-webstore-manager) - managing chrome webstore items from Node.js.
 
 ## Official API
 * [Chrome Extensions API](https://developer.chrome.com/extensions/api_index)
