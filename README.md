@@ -5,51 +5,63 @@
 > A curated list of awesome resources for building browser extensions and apps
 
 ## Contents
-* [Development](#development)
-* [Testing](#testing)
-* [Publishing](#publishing)
-* [Official API](#officialapi)
-* [Official Stores](#officialstores)
-* [Resources](#resources)
-* [Contribution](#contribution)
+* [Tools](#tools)
+  * [Development](#development)
+  * [Testing](#testing)
+  * [Publishing](#publishing)
+* [Documentation](#documentation)
+* [Stores](#stores)
+* [Articles](#articles)
+* [Videos](#articles) 
+* [Community](#community)
 
-## Development
-* [generator-chrome-extension](https://github.com/yeoman/generator-chrome-extension) - yeoman chrome extension generator that creates everything you need to get started with extension development.
-* [then-chrome](https://github.com/acvetkov/then-chrome) - promise-based chrome extensions api.
-* [chnl](https://github.com/vitalets/chnl) - implementation of events compatible with [chrome extensions events API](https://developer.chrome.com/extensions/events#type-Event).
+## Tools
+### Development
+* [generator-chrome-extension](https://github.com/yeoman/generator-chrome-extension) - yeoman Chrome extension generator that creates everything you need to get started with extension development.
+* [then-chrome](https://github.com/acvetkov/then-chrome) - promise-based Chrome extensions API.
+* [chnl](https://github.com/vitalets/chnl) - implementation of events compatible with [Chrome Extensions Events API](https://developer.chrome.com/extensions/events#type-Event).
 * [chrome-manifest](https://github.com/ragingwind/chrome-manifest) - manage manifest, easily include/exclude keys.
 
-## Testing
-* [sinon-chrome](https://github.com/acvetkov/sinon-chrome) - testing chrome extension with sinon and nodejs.
+### Testing
+* [sinon-chrome](https://github.com/acvetkov/sinon-chrome) - testing Chrome extension with Sinon and Node.js.
 * [karma-sinon-chrome](https://github.com/9joneg/karma-sinon-chrome) - karma adapter to run extension tests with sinon-chrome.
 
-## Publishing
-* [crx](https://www.npmjs.com/package/crx) - packs directory into `.crx` file.
+### Publishing
+* [crx](https://www.npmjs.com/package/crx) - packs directory into CRX file.
 * [grunt-crx](https://github.com/oncletom/grunt-crx) - grunt task used to package Chrome Extensions.
-* [chrome-extension-deploy](https://github.com/erikdesjardins/chrome-extension-deploy) - programmatic deploy extensions to chrome web store.
-* [download-crx](https://github.com/acvetkov/download-crx) - npm package to dowload crx from chrome web store by id.
-* [chrome-web-store-item-property](https://github.com/pandawing/node-chrome-web-store-item-property) - gather version, count of downloads and rating from chrome web store.
-* [chrome-store-api](https://github.com/acvetkov/chrome-store-api) - chrome webstore [Api](https://developer.chrome.com/webstore/using_webstore_api) for Node.js.
-* [chrome-webstore-manager](https://github.com/pastak/chrome-webstore-manager) - managing chrome webstore items from Node.js.
+* [chrome-extension-deploy](https://github.com/erikdesjardins/chrome-extension-deploy) - programmatic deploy extensions to Chrome Web Store.
+* [download-crx](https://github.com/acvetkov/download-crx) - npm package to dowload CRX from Chrome Web Store by id.
+* [chrome-web-store-item-property](https://github.com/pandawing/node-chrome-web-store-item-property) - gather version, count of downloads and rating from chrome Web Store.
+* [chrome-store-api](https://github.com/acvetkov/chrome-store-api) - Chrome Webstore [API](https://developer.chrome.com/webstore/using_webstore_api) for Node.js.
+* [chrome-webstore-manager](https://github.com/pastak/chrome-webstore-manager) - managing Chrome Web Store items from Node.js.
+* [chrome-extension-downloader.com](http://chrome-extension-downloader.com/) - online service to download CRX from Chrome Web Store.
 
-## Official API
+## Documentation
 * [Chrome Extensions API](https://developer.chrome.com/extensions/api_index)
 * [Opera Extensions API](https://dev.opera.com/extensions/apis/)
 * [Firefox WebExtensions API](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API)
-* [Firefox Add-ons SDK](https://developer.mozilla.org/en-US/Add-ons/SDK/High-Level_APIs)
-* [Safari extensions API](https://developer.apple.com/library/safari/documentation/UserExperience/Reference/SafariExtensionsReference/index.html)
+* [Firefox Add-ons SDK](https://developer.mozilla.org/en-US/Add-ons/SDK/High-Level_APIs) (legacy)
+* [Safari Extensions API](https://developer.apple.com/library/safari/documentation/UserExperience/Reference/SafariExtensionsReference/index.html)
+* [Safari App Extensions API](https://developer.apple.com/library/content/documentation/NetworkingInternetWeb/Conceptual/SafariAppExtension_PG/)
 
-## Official Stores
+## Stores
 * [Chrome Web Store](https://chrome.google.com/webstore)
 * [Opera Web Store](https://addons.opera.com/en/extensions/)
 * [Firefox Add-ons Store](https://addons.mozilla.org)
 * [Safari Extensions Gallery](https://safari-extensions.apple.com/)
 
-## Resources
-* [chrome-extension-downloader.com](http://chrome-extension-downloader.com/) - online service to download `crx` from chrome web store.
+## Articles
 * [The Future of Developing Firefox Add-ons](https://blog.mozilla.org/addons/2015/08/21/the-future-of-developing-firefox-add-ons/) - official blog post introducing WebExtensions in Firefox
 
-## Contribution
+## Videos
+Contribute some ;)
+
+## Community
+* [Reddit Chrome Extensions](https://www.reddit.com/r/chrome_extensions)
+* [Reddit Chrome Apps](https://www.reddit.com/r/chromeapps)
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/google-chrome-extension)
+
+## Contribute
 Please feel free to share your experience and contribute useful extension resources by creating [new issue](https://github.com/vitalets/awesome-browser-extensions-and-apps/issues/new) or [pull request](https://github.com/vitalets/awesome-browser-extensions-and-apps/compare). Thanks!
 
 ## License
