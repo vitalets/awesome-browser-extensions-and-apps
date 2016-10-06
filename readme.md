@@ -62,7 +62,7 @@ Contribute some ;)
 * [Stack Overflow](http://stackoverflow.com/questions/tagged/google-chrome-extension)
 
 ## Contribute
-Please feel free to share your experience and contribute useful extension resources by creating [new issue](https://github.com/vitalets/awesome-browser-extensions-and-apps/issues/new) or [pull request](https://github.com/vitalets/awesome-browser-extensions-and-apps/compare). Thanks!
+Feel free to share your experience and contribute useful extension resources by creating [new issue](https://github.com/vitalets/awesome-browser-extensions-and-apps/issues/new) or [pull request](https://github.com/vitalets/awesome-browser-extensions-and-apps/compare). Please read the [contribution guidelines](contributing.md) first. Thanks!
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
