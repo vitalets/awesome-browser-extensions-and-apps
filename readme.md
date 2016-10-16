@@ -35,6 +35,7 @@
 * [chrome-store-api](https://github.com/acvetkov/chrome-store-api) - Chrome Webstore [API](https://developer.chrome.com/webstore/using_webstore_api) for Node.js.
 * [chrome-webstore-manager](https://github.com/pastak/chrome-webstore-manager) - managing Chrome Web Store items from Node.js.
 * [chrome-extension-downloader.com](http://chrome-extension-downloader.com/) - online service to download CRX from Chrome Web Store.
+* [crxviewer](https://github.com/Rob--W/crxviewer) - view Chrome, Opera or Firefox extensions content without installing it.
 
 ## Documentation
 * [Chrome Extensions API](https://developer.chrome.com/extensions/api_index)
