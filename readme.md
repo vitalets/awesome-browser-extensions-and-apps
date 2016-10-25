@@ -20,6 +20,7 @@
 * [generator-chrome-extension](https://github.com/yeoman/generator-chrome-extension) - yeoman Chrome extension generator that creates everything you need to get started with extension development.
 * [then-chrome](https://github.com/acvetkov/then-chrome) - promise-based Chrome extensions API.
 * [chnl](https://github.com/vitalets/chnl) - implementation of events compatible with [Chrome Extensions Events API](https://developer.chrome.com/extensions/events#type-Event).
+* [bro-fs](https://github.com/vitalets/bro-fs) - Promise-based [HTML5 Filesystem API](https://dev.w3.org/2009/dap/file-system/file-dir-sys.html) allowing to work with sandboxed filesystem in browser.
 * [chrome-manifest](https://github.com/ragingwind/chrome-manifest) - manage manifest, easily include/exclude keys.
 
 ### Testing
