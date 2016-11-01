@@ -46,6 +46,7 @@
 * [Firefox Add-ons SDK](https://developer.mozilla.org/en-US/Add-ons/SDK/High-Level_APIs) (legacy)
 * [Safari Extensions API](https://developer.apple.com/library/safari/documentation/UserExperience/Reference/SafariExtensionsReference/index.html)
 * [Safari App Extensions API](https://developer.apple.com/library/content/documentation/NetworkingInternetWeb/Conceptual/SafariAppExtension_PG/)
+* [Edge Extensions API](https://developer.microsoft.com/en-us/microsoft-edge/platform/documentation/extensions/api-support/)
 
 ## Examples
 * [Official WebExtension Example for Firefox](https://github.com/Standard8/example-webextension) - Example repository containing templates and good practices for creating a WebExtension for Firefox.
