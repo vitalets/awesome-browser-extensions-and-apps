@@ -1,6 +1,4 @@
-<img src="https://cloud.githubusercontent.com/assets/1473072/18416597/930a794e-7821-11e6-84d0-c23c23baadcc.png" align="right" width="150">
-# Awesome Browser Extensions and Apps
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Browser Extensions and Apps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome resources for building browser extensions and apps
 
