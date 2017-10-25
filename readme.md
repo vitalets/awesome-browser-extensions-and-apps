@@ -22,6 +22,7 @@
 * [bro-fs](https://github.com/vitalets/bro-fs) - Promise-based [HTML5 Filesystem API](https://dev.w3.org/2009/dap/file-system/file-dir-sys.html) allowing to work with sandboxed filesystem in browser.
 * [chrome-manifest](https://github.com/ragingwind/chrome-manifest) - manage manifest, easily include/exclude keys.
 * [WebExtension Manifest Formatter](https://github.com/pastak/wemf) - Format manifest.json in Chrome Extension, Firefox WebExtension and Extension for Edge
+* [WebExtension `browser` API Polyfill](https://github.com/mozilla/webextension-polyfill) - A lightweight polyfill library for Promise-based WebExtension APIs in Chrome.
 
 ### Testing
 * [sinon-chrome](https://github.com/acvetkov/sinon-chrome) - testing Chrome extension with Sinon and Node.js.
