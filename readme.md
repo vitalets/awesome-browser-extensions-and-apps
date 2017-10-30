@@ -23,6 +23,7 @@
 * [chrome-manifest](https://github.com/ragingwind/chrome-manifest) - manage manifest, easily include/exclude keys.
 * [WebExtension Manifest Formatter](https://github.com/pastak/wemf) - Format manifest.json in Chrome Extension, Firefox WebExtension and Extension for Edge
 * [WebExtension `browser` API Polyfill](https://github.com/mozilla/webextension-polyfill) - A lightweight polyfill library for Promise-based WebExtension APIs in Chrome.
+* [web-ext](https://github.com/mozilla/web-ext) - A command line tool designed to speed up various parts of the extension development process, making development faster and easier.
 
 ### Testing
 * [sinon-chrome](https://github.com/acvetkov/sinon-chrome) - testing Chrome extension with Sinon and Node.js.
