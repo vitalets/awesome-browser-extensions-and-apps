@@ -61,6 +61,7 @@
 
 ## Articles
 * [The Future of Developing Firefox Add-ons](https://blog.mozilla.org/addons/2015/08/21/the-future-of-developing-firefox-add-ons/) - official blog post introducing WebExtensions in Firefox
+* [Setting up Chrome extensions with a free trial period](http://www.nuanced.it/2016/09/setting-up-chrome-extensions-with-free.html) - This blog post will be helpful for those who are looking to set up a free trial period for their Chrome extension hosted in the Chrome web store.
 
 ## Videos
 Contribute some ;)
