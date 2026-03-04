@@ -43,8 +43,8 @@
 ## Documentation
 * [Chrome Extensions API](https://developer.chrome.com/extensions/api_index)
 * [Opera Extensions API](https://dev.opera.com/extensions/apis/)
-* [Firefox WebExtensions API](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API)
-* [Firefox Add-ons SDK](https://developer.mozilla.org/en-US/Add-ons/SDK/High-Level_APIs) (legacy)
+* [Firefox WebExtensions API](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API)
+* [Firefox Add-ons SDK](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/SDK/High-Level_APIs) (legacy)
 * [Safari Extensions API](https://developer.apple.com/library/safari/documentation/UserExperience/Reference/SafariExtensionsReference/index.html)
 * [Safari App Extensions API](https://developer.apple.com/library/content/documentation/NetworkingInternetWeb/Conceptual/SafariAppExtension_PG/)
 * [Edge Extensions API](https://developer.microsoft.com/en-us/microsoft-edge/platform/documentation/extensions/api-support/)
