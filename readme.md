@@ -39,6 +39,7 @@
 * [chrome-webstore-manager](https://github.com/pastak/chrome-webstore-manager) - managing Chrome Web Store items from Node.js.
 * [chrome-extension-downloader.com](http://chrome-extension-downloader.com/) - online service to download CRX from Chrome Web Store.
 * [crxviewer](https://github.com/Rob--W/crxviewer) - view Chrome, Opera or Firefox extensions content without installing it.
+* [TypoGuard](https://https://chromewebstore.google.com/detail/typoguard-ai-spell-check/khbenciagmckicfldgibdkmklidnmpck) - AI-powered real-time spell check correction and grammar assistant for Google Chrome.
 
 ## Documentation
 * [Chrome Extensions API](https://developer.chrome.com/extensions/api_index)
