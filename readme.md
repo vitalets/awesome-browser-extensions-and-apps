@@ -52,6 +52,7 @@
 ## Examples
 * [Official WebExtension Example for Firefox](https://github.com/Standard8/example-webextension) - Example repository containing templates and good practices for creating a WebExtension for Firefox.
 * [webextensions-examples](https://github.com/mdn/webextensions-examples) - Example Firefox add-ons created using the WebExtensions API. Maintained by the MDN team at Mozilla.
+* [TruthLayer](https://github.com/miraekims/Truthlayer) — Chrome MV3 extension with Shadow DOM overlay. Injects on-chain wallet verification badges next to every @handle on X (Twitter). Open-source, multi-chain.
 
 ## Stores
 * [Chrome Web Store](https://chrome.google.com/webstore)
