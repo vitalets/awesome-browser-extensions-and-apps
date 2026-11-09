@@ -28,6 +28,7 @@
 ### Testing
 * [sinon-chrome](https://github.com/acvetkov/sinon-chrome) <sub><img src="https://img.shields.io/github/stars/acvetkov/sinon-chrome?style=flat-square&label=%E2%98%85&color=777777" alt="Stars"></sub> <sub><img src="https://img.shields.io/github/last-commit/acvetkov/sinon-chrome?style=flat-square&label=upd&color=777777" alt="Last commit"></sub> - testing Chrome extension with Sinon and Node.js.
 * [karma-sinon-chrome](https://github.com/9joneg/karma-sinon-chrome) <sub><img src="https://img.shields.io/github/stars/9joneg/karma-sinon-chrome?style=flat-square&label=%E2%98%85&color=777777" alt="Stars"></sub> <sub><img src="https://img.shields.io/github/last-commit/9joneg/karma-sinon-chrome?style=flat-square&label=upd&color=777777" alt="Last commit"></sub> - karma adapter to run extension tests with sinon-chrome.
+* [playwright-webext](https://github.com/vitalets/playwright-webext) <sub><img src="https://img.shields.io/github/stars/vitalets/playwright-webext?style=flat-square&label=%E2%98%85&color=777777" alt="Stars"></sub> <sub><img src="https://img.shields.io/github/last-commit/vitalets/playwright-webext?style=flat-square&label=upd&color=777777" alt="Last commit"></sub> - Playwright fixtures for testing browser extensions.
 
 ### Publishing
 * [crx](https://www.npmjs.com/package/crx) - packs directory into CRX file.
